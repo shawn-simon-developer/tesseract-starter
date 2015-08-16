@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CFC7F14E-BFBA-4BF0-AC18-F3000942BDAC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EventStream</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABEB2A8181404FFBDB5AB8FB67EE480BF4CA7FD4</key>
+		<string>https://github.com/shawn-simon-developer/ios-starter-2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EventStream.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABEB2A8181404FFBDB5AB8FB67EE480BF4CA7FD4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shawn-simon-developer/ios-starter-2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABEB2A8181404FFBDB5AB8FB67EE480BF4CA7FD4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABEB2A8181404FFBDB5AB8FB67EE480BF4CA7FD4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-starter-2015</string>
+		</dict>
+	</array>
+</dict>
+</plist>
